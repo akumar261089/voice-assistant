@@ -25,7 +25,7 @@
 ## Modules
 
  - Fetch sytem info
- - Get latest code from server
+ - Get latest config from api
  - Connect to db
  - tokenize text(identify known tokens)
  - add unknown tokens to db
@@ -34,3 +34,4 @@
  - define tokens to nouns, pronouns, verbs, ADJECTIVE, ADVERB, PREPOSITION, CONJUNCTION, INTERJECTION, articles 
  - clasify type nouns as  - 
  - properties of nouns 
+ - form sentence
